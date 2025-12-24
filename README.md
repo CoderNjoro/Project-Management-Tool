@@ -22,7 +22,7 @@ Self-Contained: Requires only Python and its standard library—no complex datab
 2. Get the Code: Clone or download this repository to your local machine.
 3. Run the Application: Navigate to the project directory in your terminal and execute:
    ```bash
-   python modern_ui.py
+   projectmanager.py
    ```
 4. Data Storage: Upon first run, a `data/` directory will be created automatically to store all your information.
 
@@ -36,7 +36,7 @@ GUI Framework: Tkinter (Standard Library)
 
 ## Data Storage: JSON files
 
-Architecture: Modular design with clear separation between the user interface (`modern_ui.py`), data management layer (`data_manager.py`), and dialog controllers (`dialogs.py`).
+Architecture: Modular design with clear separation between the user interface, data management layer, and dialog controllers.
 
 ## Project Status
 
